@@ -42,8 +42,6 @@ UCF Full Stack Coding Bootcamp
 
 ## License
 
-MIT License
-
 
 ## Tests
 
