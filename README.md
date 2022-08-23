@@ -13,6 +13,12 @@ U-develop-it is a voting app that uses Express.js API and MySQL for the database
 ## Installation
 
 Start by downloading the repository.
+Initialize Node.js by entering the following command in the terminal:
+    npm init --y
+Install Express.js and the MySQL2 node packages by entering the following command in the terminal:
+    npm install express mysql2
+Install Jest by entering the following command in the terminal:
+    npm install jest --save-dev
 Then visit https://dev.mysql.com/downloads/mysql/ for MySQL download instuctions. 
 Verify the download is complete by entering the following command in the terminal:
     mysql -v
