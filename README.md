@@ -24,6 +24,12 @@ Verify the download is complete by entering the following command in the termina
     mysql -v
 Enter the following command into the terminal to initiate the MySQL Shell:
     mysql -u root -p
+Enter your MySQL password when prompted. Then, at the MySQL CLI prompt, switch to the election database by typing the following command:
+    USE election;
+Then rebuild and seed the database by running the following commands:
+    source db/schema.sql
+    source db/seeds.sql
+
 
 
 ## Usage
