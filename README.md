@@ -13,6 +13,7 @@ U-develop-it is the back-end of a voting app that uses Express.js API and MySQL 
 ## Installation
 
 Start by downloading the repository.
+Find the connection.js file inside the db folder. On line 8, which starts with the word password, type your SQL Shell password within the quotation marks. 
 
 Initialize Node.js by entering the following command in the terminal:
     
