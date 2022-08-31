@@ -3,7 +3,7 @@
 ## Description
 U-develop-it is the back-end of a voting app that uses Express.js API and MySQL for the database. 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
